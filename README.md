@@ -1,7 +1,7 @@
 # Document_Scanner
 Document Scanner is an application developed using Python , OpenCV2 and Numpy.This application is used to auto-crop documents within the picture you define.
 
-![Ekran görüntüsü 2023-06-02 103719](https://github.com/CyclopsGames1453/Document_Scanner/assets/77069289/1023049e-032b-4e66-a8d6-a0826b5ccec9)
+![Ekran görüntüsü 2023-06-02 103719](https://github.com/CyclopsGames1453/Document_Scanner/assets/77069289/b50cb571-fa34-49b4-853d-ae8e2d98f767)
 
 # Here's how the application works:
 
