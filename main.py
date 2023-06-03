@@ -80,9 +80,10 @@ cv2.imshow("frame",imageWarped)
 
 k=cv2.waitKey(0)
 
-# show result
+#It turns off when you press the q key.
 if k == ord("q"):
     print("q key pressed , picture saved.")
     cv2.imwrite("image/result.jpg",imageWarped)
 
+#close all windows
 cv2.destroyAllWindows()
